@@ -1,10 +1,10 @@
-![brew8logo](images/brew8logo.png)
+![brew8logo](brew8logo.png)
 
 # Ancient Weirdo
 
 I bought a mash tun! If you don't believe me, here it is.
 
-![brew8mash](images/brew8mash.jpg)
+![brew8mash](brew8mash.jpg)
 
 I opted for the [Brewzilla](https://brewkegtap.co.uk/products/brewzilla-robobrew-35l-gen3-1-1-bundle) based on positive reviews and cost. Time to do a full mash brew.
 
@@ -65,14 +65,13 @@ Liquid is different. I can't just add 12l of water and expect 12l of beer. Some 
 * To chill, immerse the chiller and pump cold water through. use the pump to more the fluid around and over the chiller. Reduce temperature to 20C in about 20 mintues. Use a thermometer to check, do not trust the on board sensor.
 * Transfer to fermenter using pump, allow to froth to airate. At this point only 9l of liquid remain.
 * OG reading = 1.054
-* 
 
 ## Graph
 
 * Designated brewing room was cooler than hoped. After 24 hours was moved to a room with a more stable temperate at >20C.
 * Once fermentation stopped, shook fermented to dislodge yeast from tilt hydrometer to get a better reading.
 
-![brew8graph](images/brew8graph.png)
+![brew8graph](brew8graph.png)
 
 ## Bottling Day, 8th April
 
@@ -95,7 +94,7 @@ Liquid is different. I can't just add 12l of water and expect 12l of beer. Some 
 * Hopefully this will develop while it rests.
 * [Beer has been added to untappd](https://untappd.com/qr/beer/4260905).
 
-![brew8beer](images/brew8beer.jpg)
+![brew8beer](brew8beer.jpg)
 
 ## Biscuits
 
@@ -106,7 +105,7 @@ Liquid is different. I can't just add 12l of water and expect 12l of beer. Some 
 * The first batch may look ugly but it doesn't ge tto touch the sided when being wolfed down by a domesticated wolf.
 * although safe for human consumption I wouldn't recommend it. they're a bit dry and lacking sweetness.
 
-![brew8biscuit](images/brew8biscuit.jpg)
+![brew8biscuit](brew8biscuit.jpg)
 
 ## Lessons learnt
 
@@ -117,5 +116,5 @@ Liquid is different. I can't just add 12l of water and expect 12l of beer. Some 
 * 12 of liquor may be enough fluid to ocver the grain during the mash but does not leave enough to cover the immersion chiller. The chiller gets more coverage in a 13l fermenter but does bring some waste proruct when moveing from the one to the other. only chill in one vessel, preferably the mash / kettle.
 * Dogs like biscuits. make more next time.
 
-![brew8bottles](images/brew8bottles.jpg)
+![brew8bottles](brew8bottles.jpg)
 
