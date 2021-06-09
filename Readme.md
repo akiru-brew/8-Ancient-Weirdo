@@ -8,7 +8,7 @@ I bought a mash tun! If you don't believe me, here it is.
 
 I opted for the [Brewzilla](https://brewkegtap.co.uk/products/brewzilla-robobrew-35l-gen3-1-1-bundle) based on positive reviews and cost. Time to do a full mash brew.
 
-I've decded to start with a cloned recipe for a familar beer, Old Peculier. Theres a few open source recipes on the Internet, but I've chosen to use [this one](http://www.britishbrewer.com/2010/02/recipe-theakston-old-peculier-version-1/), scaled down to ~10l.
+I've decided to start with a cloned recipe for a familiar beer, Old Peculiar. Theres a few open source recipes on the Internet, but I've chosen to use [this one](http://www.britishbrewer.com/2010/02/recipe-theakston-old-peculier-version-1/), scaled down to ~10l.
 
 As this is my first time with the brewzilla I foudn two very hepful videso on youtube from [David Heath](https://www.youtube.com/watch?v=HxLJau-hBTs) and [Grain to Glass](https://www.youtube.com/watch?v=SN2Ze9B2iZ8).
 
@@ -31,11 +31,11 @@ Full mash brewing is very different to what I'm used to. I've had a to learn a l
 
 ### Sanitistion
 
-Sanitisation is different. After using VWP for 20 years to clean and sanitise I've read that it's not good for stainless steel.  I've now got some PBW for cleaning the mash tun, and a Chemsan for sanitisation. Apparently I don't need to sanitise anythat that touches the beer until after the boil stage. I learnt a lot from [this video](https://www.youtube.com/watch?v=8p6CmLoj0eo).
+Sanitisation is different. After using VWP for 20 years to clean and sanitise I've read that it's not good for stainless steel.  I've now got some PBW for cleaning the mash tun, and a Chemsan for sanitisation. Apparently I don't need to sanitise anything that touches the beer until after the boil stage. I learnt a lot from [this video](https://www.youtube.com/watch?v=8p6CmLoj0eo).
 
 ### Heating
 
-Heating is different. In the past I've turned the boiler on and off with a switch and checked regularly with a thermometer. I have have digitial controlers with a choice of 2 heaters. a 500W heater is good for maintaining a stable temperature at anyting <80C, the 1900W heater is good at maintaining a rolling boil. Both at once are (not surprisingly) the fastest way to heat my liquor and wort. Heating comes in 3 stages.
+Heating is different. In the past I've turned the boiler on and off with a switch and checked regularly with a thermometer. I have have digital controllers with a choice of 2 heaters. a 500W heater is good for maintaining a stable temperature at anything <80C, the 1900W heater is good at maintaining a rolling boil. Both at once are (not surprisingly) the fastest way to heat my liquor and wort. Heating comes in 3 stages.
 
 * Mash the grain at 66C for ~1 hour.
 * Heat to 77C for sparging.
@@ -102,7 +102,7 @@ Liquid is different. I can't just add 12l of water and expect 12l of beer. Some 
 * Mix with an equal amount of plain flou to grain in a alrge bowl then add enough eggs to make it moist yet maliable, like a dough.
 * roll into 1cm thick slab and cut into dog appropriate shapes.
 * bake at 200C for 30 minutes, then leave at 100C for 2 hours to fully dry out.
-* The first batch may look ugly but it doesn't ge tto touch the sided when being wolfed down by a domesticated wolf.
+* The first batch may look ugly but it doesn't get to touch the sides when being wolfed down by a domesticated wolf.
 * although safe for human consumption I wouldn't recommend it. they're a bit dry and lacking sweetness.
 
 ![brew8biscuit](brew8biscuit.jpg)
